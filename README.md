@@ -1,4 +1,4 @@
-# payroll
+# Employee  payroll system
 An Employee Payroll System is a software solution designed to automate and
 manage the financial records of employees. This system allows for efficient
 handling of salary payments, deductions, bonuses, taxes, and other payroll-
